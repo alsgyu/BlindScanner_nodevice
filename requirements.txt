@@ -1,0 +1,12 @@
+# requirements.txt
+
+requests
+gTTS
+playsound==1.2.2
+streamlit
+pymysql
+pandas
+python-dotenv
+supabase
+playsound
+boto3
